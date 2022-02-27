@@ -1,0 +1,124 @@
+@media (max-width:1200px){
+    .container{
+        max-width: 960px;
+    }
+    .leftinner_img {
+        left: 16px;
+        top: 100px;
+    }
+    .leftinner_img img {
+        width: 146px;
+    }
+    .secondouter_img {
+        right: -11px;
+        top: 126px;
+    }
+    .secondouter_img img {
+        width: 140px;
+    }
+    .rightinner_img {
+        right: 182px;
+        top: 80px;
+    }
+    .rightinner_img img {
+        width: 50px;
+    }
+    .popup {
+        width: 330px !important;
+        
+    }
+    .main_tab{
+        text-align: center !important;
+    }
+   
+}
+@media (max-width:991px){
+    .container{
+        max-width: 720px;
+    }
+    .top_form{
+        background-color: transparent;
+    }
+    .form_border{
+        border-bottom: 1px solid #ffffff;
+    }
+    .form_link{
+        margin-top: 50px;
+    }
+    .top_heading p{
+        font-size: 44px;
+        line-height: 45px;
+    }
+    .top_caption2 p {
+        line-height: 25px;
+        font-size: 13px;
+    }
+    .basic_btn {
+        width: 100%;
+    }
+    .basic_info_heading p{
+        font-size: 55px;
+        line-height: 52px;
+    }
+    .right_basic_info{
+        padding-top: 40px;
+    }
+    .about_us{
+        text-align: center;
+    }
+    .basic_info_top{
+        text-align: center;
+    }
+    .basic_info_heading  p{
+        padding: 0 !important;
+        margin: 0 auto !important;
+    }
+    
+}
+@media (max-width:767px){
+    .container{
+        max-width: 540px;
+    }
+    
+    .leftinner_img img {
+        width: 100px;
+        z-index: -1;
+    }
+    .leftinner_img {
+        left: -73px;
+        top: 70px;
+    }
+    .secondouter_img img {
+        width: 100px;
+    }
+    .download_app{
+        width: 100%;
+    }
+    .rightinner_img img {
+        width: 30px;
+    }
+    .firstouter_img img {
+        width: 50px;
+    }
+    .top_content{
+        width: 100%;
+    }
+
+}
+@media (max-width:575px){
+    .container{
+        width: 100%;
+
+    }
+    .about_bottom{
+        padding: 0;
+    }
+    .slider_part{
+        width: 100% !important;
+    padding: 0 15px;
+    }
+    .social_icon ul li a i {
+
+         padding: 0;
+    }
+}
